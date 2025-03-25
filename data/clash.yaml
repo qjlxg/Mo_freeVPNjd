@@ -5,18 +5,42 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇸🇬 新加坡西部, server: westsg2-ddns.oraclenat.cc, port: 23452, type: vmess, uuid: 4abcb0b6-c238-42b3-b91e-94635cd859b5, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: westsg2-ddns.oraclenat.cc}}, udp: true}
-  - {name: 🇺🇸 美国, server: phx-plus-1ddns.faforex.eu.org, port: 23451, type: vmess, uuid: 4abcb0b6-c238-42b3-b91e-94635cd859b5, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: phx-plus-1ddns.faforex.eu.org}}, udp: true}
-  - {name: 🇩🇪 德国, server: freeyx.cloudflare88.eu.org, port: 443, type: vmess, uuid: 4abcb0b6-c238-42b3-b91e-94635cd859b5, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: go.daluquan.top}}, udp: true}
-  - {name: 🇩🇪 德国法兰克福, server: frankfurt.faforex.eu.org, port: 23451, type: vmess, uuid: 4abcb0b6-c238-42b3-b91e-94635cd859b5, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/itdog?ed=2560", headers: {Host: us-new03.daluquan.top}}, udp: true}
+  - {name: 🇸🇬 新加坡西部, server: westsg2-ddns.oraclenat.cc, port: 23452, type: vmess, uuid: 7c241553-6b26-45da-b137-c4604bfec39d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: westsg2-ddns.oraclenat.cc}}, udp: true}
+  - {name: 🇭🇰 香港02, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇺🇸 美国, server: phx-plus-1ddns.faforex.eu.org, port: 23451, type: vmess, uuid: 7c241553-6b26-45da-b137-c4604bfec39d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: phx-plus-1ddns.faforex.eu.org}}, udp: true}
+  - {name: XS-NXL, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇭🇰 香港01, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇨🇳 台湾01, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇩🇪 德国, server: freeyx.cloudflare88.eu.org, port: 443, type: vmess, uuid: 7c241553-6b26-45da-b137-c4604bfec39d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: /, headers: {Host: go.daluquan.top}}, udp: true}
+  - {name: 🇺🇸 美国 纽约01, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇯🇵 日本02, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇨🇳 台湾 1, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇭🇰 香港03, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇺🇸 美国 纽约2, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇩🇪 德国法兰克福, server: frankfurt.faforex.eu.org, port: 23451, type: vmess, uuid: 7c241553-6b26-45da-b137-c4604bfec39d, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "/itdog?ed=2560", headers: {Host: us-new03.daluquan.top}}, udp: true}
+  - {name: 🇯🇵 日本04, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇯🇵 日本01, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
+  - {name: 🇯🇵 日本03, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 47e7fe8f-31b9-4d0e-9598-4c2a1a7724d8, udp: true}
 proxy-groups:
   - name: 手动切换
     type: select
     proxies:
       - 🇸🇬 新加坡西部
+      - 🇭🇰 香港02
       - 🇺🇸 美国
+      - XS-NXL
+      - 🇭🇰 香港01
+      - 🇨🇳 台湾01
       - 🇩🇪 德国
+      - 🇺🇸 美国 纽约01
+      - 🇯🇵 日本02
+      - 🇨🇳 台湾 1
+      - 🇭🇰 香港03
+      - 🇺🇸 美国 纽约2
       - 🇩🇪 德国法兰克福
+      - 🇯🇵 日本04
+      - 🇯🇵 日本01
+      - 🇯🇵 日本03
   - name: 自动选择
     type: url-test
     url: https://www.google.com/favicon.ico
@@ -24,9 +48,21 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇸🇬 新加坡西部
+      - 🇭🇰 香港02
       - 🇺🇸 美国
+      - XS-NXL
+      - 🇭🇰 香港01
+      - 🇨🇳 台湾01
       - 🇩🇪 德国
+      - 🇺🇸 美国 纽约01
+      - 🇯🇵 日本02
+      - 🇨🇳 台湾 1
+      - 🇭🇰 香港03
+      - 🇺🇸 美国 纽约2
       - 🇩🇪 德国法兰克福
+      - 🇯🇵 日本04
+      - 🇯🇵 日本01
+      - 🇯🇵 日本03
   - name: 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -35,17 +71,36 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇸🇬 新加坡西部
+      - 🇭🇰 香港02
       - 🇺🇸 美国
+      - XS-NXL
+      - 🇭🇰 香港01
+      - 🇨🇳 台湾01
       - 🇩🇪 德国
+      - 🇺🇸 美国 纽约01
+      - 🇯🇵 日本02
+      - 🇨🇳 台湾 1
+      - 🇭🇰 香港03
+      - 🇺🇸 美国 纽约2
       - 🇩🇪 德国法兰克福
+      - 🇯🇵 日本04
+      - 🇯🇵 日本01
+      - 🇯🇵 日本03
   - name: 中国节点
     type: select
     proxies:
-      - DIRECT
+      - 🇭🇰 香港02
+      - 🇭🇰 香港01
+      - 🇨🇳 台湾01
+      - 🇨🇳 台湾 1
+      - 🇭🇰 香港03
   - name: 日本节点
     type: select
     proxies:
-      - DIRECT
+      - 🇯🇵 日本02
+      - 🇯🇵 日本04
+      - 🇯🇵 日本01
+      - 🇯🇵 日本03
   - name: 新加坡节点
     type: select
     proxies:
@@ -57,9 +112,23 @@ proxy-groups:
     tolerance: 150
     proxies:
       - 🇺🇸 美国
+      - 🇺🇸 美国 纽约01
+      - 🇺🇸 美国 纽约2
 rules:
   - DOMAIN,westsg2-ddns.oraclenat.cc,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
   - DOMAIN,phx-plus-1ddns.faforex.eu.org,DIRECT
+  - DOMAIN,hk.kfsldflk.xyz,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
   - DOMAIN,freeyx.cloudflare88.eu.org,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
   - DOMAIN,frankfurt.faforex.eu.org,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
+  - DOMAIN,gy.666666222.shop,DIRECT
   - MATCH,手动切换
