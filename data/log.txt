@@ -1,434 +1,437 @@
-2025-04-04 03:24:45 collect.py [line:209] ERROR: cannot extract username and gist id due to invalid github gist link
-2025-04-04 03:24:45 collect.py [line:71] INFO: start checking whether existing subscriptions have expired
-2025-04-04 03:24:47 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [check_status] finished, count: 1, cost: 1.32s
-2025-04-04 03:24:47 collect.py [line:113] INFO: load exists subscription finished, count: 1
-2025-04-04 03:24:48 crawl.py [line:1430] INFO: [TelegramCrawl] starting crawl from telegram, channel: freeVPNjd, pages: 345
-2025-04-04 03:24:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6894
-2025-04-04 03:24:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6874
-2025-04-04 03:24:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6854
-2025-04-04 03:24:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6834
-2025-04-04 03:24:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6814
-2025-04-04 03:24:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6794
-2025-04-04 03:24:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6774
-2025-04-04 03:24:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6754
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6734
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6714
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6694
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6674
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6654
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6634
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6614
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6594
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6574
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6554
-2025-04-04 03:24:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6534
-2025-04-04 03:24:50 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6514
-2025-04-04 03:24:50 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6494
-2025-04-04 03:24:50 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6474
-2025-04-04 03:24:50 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6454
-2025-04-04 03:24:50 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6434
-2025-04-04 03:24:50 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6414
-2025-04-04 03:24:50 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6394
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6374
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6354
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6334
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6314
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6294
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6274
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6254
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6234
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6214
-2025-04-04 03:24:51 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6194
-2025-04-04 03:24:52 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6174
-2025-04-04 03:24:52 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6154
-2025-04-04 03:24:52 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6134
-2025-04-04 03:24:52 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6114
-2025-04-04 03:24:52 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6094
-2025-04-04 03:24:52 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6074
-2025-04-04 03:24:52 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6054
-2025-04-04 03:24:52 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6034
-2025-04-04 03:24:53 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6014
-2025-04-04 03:24:53 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5994
-2025-04-04 03:24:53 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5974
-2025-04-04 03:24:53 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5954
-2025-04-04 03:24:53 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5934
-2025-04-04 03:24:53 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5914
-2025-04-04 03:24:53 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5894
-2025-04-04 03:24:53 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5874
-2025-04-04 03:24:54 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5854
-2025-04-04 03:24:54 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5834
-2025-04-04 03:24:54 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5814
-2025-04-04 03:24:54 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5794
-2025-04-04 03:24:54 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5774
-2025-04-04 03:24:54 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5754
-2025-04-04 03:24:54 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5734
-2025-04-04 03:24:54 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5714
-2025-04-04 03:24:55 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5694
-2025-04-04 03:24:55 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5674
-2025-04-04 03:24:55 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5654
-2025-04-04 03:24:55 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5634
-2025-04-04 03:24:55 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5614
-2025-04-04 03:24:55 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5594
-2025-04-04 03:24:55 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5574
-2025-04-04 03:24:55 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5554
-2025-04-04 03:24:56 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5534
-2025-04-04 03:24:56 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5514
-2025-04-04 03:24:56 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5494
-2025-04-04 03:24:56 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5474
-2025-04-04 03:24:56 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5454
-2025-04-04 03:24:56 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5434
-2025-04-04 03:24:56 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5414
-2025-04-04 03:24:56 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5394
-2025-04-04 03:24:57 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5374
-2025-04-04 03:24:57 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5354
-2025-04-04 03:24:57 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5334
-2025-04-04 03:24:57 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5314
-2025-04-04 03:24:57 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5294
-2025-04-04 03:24:57 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5274
-2025-04-04 03:24:57 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5254
-2025-04-04 03:24:57 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5234
-2025-04-04 03:24:58 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5214
-2025-04-04 03:24:58 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5194
-2025-04-04 03:24:58 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5174
-2025-04-04 03:24:58 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5154
-2025-04-04 03:24:58 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5134
-2025-04-04 03:24:59 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5114
-2025-04-04 03:24:59 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5094
-2025-04-04 03:24:59 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5074
-2025-04-04 03:24:59 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5054
-2025-04-04 03:24:59 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5034
-2025-04-04 03:24:59 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5014
-2025-04-04 03:24:59 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4994
-2025-04-04 03:24:59 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4974
-2025-04-04 03:24:59 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4954
-2025-04-04 03:25:00 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4934
-2025-04-04 03:25:00 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4914
-2025-04-04 03:25:00 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4894
-2025-04-04 03:25:00 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4874
-2025-04-04 03:25:00 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4854
-2025-04-04 03:25:00 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4834
-2025-04-04 03:25:00 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4814
-2025-04-04 03:25:01 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4794
-2025-04-04 03:25:01 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4774
-2025-04-04 03:25:01 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4754
-2025-04-04 03:25:01 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4734
-2025-04-04 03:25:01 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4714
-2025-04-04 03:25:01 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4694
-2025-04-04 03:25:01 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4674
-2025-04-04 03:25:02 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4654
-2025-04-04 03:25:02 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4634
-2025-04-04 03:25:02 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4614
-2025-04-04 03:25:02 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4594
-2025-04-04 03:25:02 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4574
-2025-04-04 03:25:02 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4554
-2025-04-04 03:25:02 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4534
-2025-04-04 03:25:02 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4514
-2025-04-04 03:25:03 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4494
-2025-04-04 03:25:03 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4474
-2025-04-04 03:25:03 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4454
-2025-04-04 03:25:03 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4434
-2025-04-04 03:25:03 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4414
-2025-04-04 03:25:03 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4394
-2025-04-04 03:25:03 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4374
-2025-04-04 03:25:03 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4354
-2025-04-04 03:25:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4334
-2025-04-04 03:25:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4314
-2025-04-04 03:25:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4294
-2025-04-04 03:25:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4274
-2025-04-04 03:25:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4254
-2025-04-04 03:25:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4234
-2025-04-04 03:25:04 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4214
-2025-04-04 03:25:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4194
-2025-04-04 03:25:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4174
-2025-04-04 03:25:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4154
-2025-04-04 03:25:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4134
-2025-04-04 03:25:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4114
-2025-04-04 03:25:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4094
-2025-04-04 03:25:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4074
-2025-04-04 03:25:05 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4054
-2025-04-04 03:25:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4034
-2025-04-04 03:25:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4014
-2025-04-04 03:25:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3994
-2025-04-04 03:25:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3974
-2025-04-04 03:25:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3954
-2025-04-04 03:25:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3934
-2025-04-04 03:25:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3914
-2025-04-04 03:25:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3894
-2025-04-04 03:25:06 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3874
-2025-04-04 03:25:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3854
-2025-04-04 03:25:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3834
-2025-04-04 03:25:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3814
-2025-04-04 03:25:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3794
-2025-04-04 03:25:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3774
-2025-04-04 03:25:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3754
-2025-04-04 03:25:07 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3734
-2025-04-04 03:25:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3714
-2025-04-04 03:25:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3694
-2025-04-04 03:25:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3674
-2025-04-04 03:25:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3654
-2025-04-04 03:25:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3634
-2025-04-04 03:25:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3614
-2025-04-04 03:25:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3594
-2025-04-04 03:25:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3574
-2025-04-04 03:25:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3554
-2025-04-04 03:25:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3534
-2025-04-04 03:25:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3514
-2025-04-04 03:25:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3494
-2025-04-04 03:25:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3474
-2025-04-04 03:25:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3454
-2025-04-04 03:25:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3434
-2025-04-04 03:25:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3414
-2025-04-04 03:25:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3394
-2025-04-04 03:25:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3374
-2025-04-04 03:25:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3354
-2025-04-04 03:25:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3334
-2025-04-04 03:25:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3314
-2025-04-04 03:25:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3294
-2025-04-04 03:25:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3274
-2025-04-04 03:25:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3254
-2025-04-04 03:25:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3234
-2025-04-04 03:25:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3214
-2025-04-04 03:25:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3194
-2025-04-04 03:25:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3174
-2025-04-04 03:25:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3154
-2025-04-04 03:25:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3134
-2025-04-04 03:25:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3114
-2025-04-04 03:25:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3094
-2025-04-04 03:25:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3074
-2025-04-04 03:25:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3054
-2025-04-04 03:25:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3034
-2025-04-04 03:25:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3014
-2025-04-04 03:25:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2994
-2025-04-04 03:25:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2974
-2025-04-04 03:25:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2954
-2025-04-04 03:25:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2934
-2025-04-04 03:25:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2914
-2025-04-04 03:25:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2894
-2025-04-04 03:25:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2874
-2025-04-04 03:25:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2854
-2025-04-04 03:25:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2834
-2025-04-04 03:25:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2814
-2025-04-04 03:25:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2794
-2025-04-04 03:25:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2774
-2025-04-04 03:25:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2754
-2025-04-04 03:25:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2734
-2025-04-04 03:25:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2714
-2025-04-04 03:25:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2694
-2025-04-04 03:25:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2674
-2025-04-04 03:25:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2654
-2025-04-04 03:25:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2634
-2025-04-04 03:25:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2614
-2025-04-04 03:25:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2594
-2025-04-04 03:25:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2574
-2025-04-04 03:25:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2554
-2025-04-04 03:25:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2534
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2514
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2494
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2474
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2454
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2434
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2414
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2394
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2374
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2354
-2025-04-04 03:25:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2334
-2025-04-04 03:25:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2314
-2025-04-04 03:25:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2294
-2025-04-04 03:25:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2274
-2025-04-04 03:25:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2254
-2025-04-04 03:25:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2234
-2025-04-04 03:25:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2214
-2025-04-04 03:25:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2194
-2025-04-04 03:25:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2174
-2025-04-04 03:25:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2154
-2025-04-04 03:25:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2134
-2025-04-04 03:25:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2114
-2025-04-04 03:25:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2094
-2025-04-04 03:25:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2074
-2025-04-04 03:25:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2054
-2025-04-04 03:25:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2034
-2025-04-04 03:25:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2014
-2025-04-04 03:25:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1994
-2025-04-04 03:25:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1974
-2025-04-04 03:25:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1954
-2025-04-04 03:25:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1934
-2025-04-04 03:25:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1914
-2025-04-04 03:25:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1894
-2025-04-04 03:25:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1874
-2025-04-04 03:25:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1854
-2025-04-04 03:25:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1834
-2025-04-04 03:25:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1814
-2025-04-04 03:25:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1794
-2025-04-04 03:25:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1774
-2025-04-04 03:25:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1754
-2025-04-04 03:25:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1734
-2025-04-04 03:25:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1714
-2025-04-04 03:25:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1694
-2025-04-04 03:25:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1674
-2025-04-04 03:25:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1654
-2025-04-04 03:25:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1634
-2025-04-04 03:25:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1614
-2025-04-04 03:25:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1594
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1574
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1554
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1534
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1514
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1494
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1474
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1454
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1434
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1414
-2025-04-04 03:25:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1394
-2025-04-04 03:25:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1374
-2025-04-04 03:25:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1354
-2025-04-04 03:25:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1334
-2025-04-04 03:25:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1314
-2025-04-04 03:25:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1294
-2025-04-04 03:25:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1274
-2025-04-04 03:25:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1254
-2025-04-04 03:25:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1234
-2025-04-04 03:25:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1214
-2025-04-04 03:25:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1194
-2025-04-04 03:25:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1174
-2025-04-04 03:25:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1154
-2025-04-04 03:25:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1134
-2025-04-04 03:25:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1114
-2025-04-04 03:25:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1094
-2025-04-04 03:25:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1074
-2025-04-04 03:25:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1054
-2025-04-04 03:25:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1034
-2025-04-04 03:25:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1014
-2025-04-04 03:25:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=994
-2025-04-04 03:25:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=974
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=954
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=934
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=914
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=894
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=874
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=854
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=834
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=814
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=794
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=774
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=754
-2025-04-04 03:25:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=734
-2025-04-04 03:25:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=714
-2025-04-04 03:25:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=694
-2025-04-04 03:25:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=674
-2025-04-04 03:25:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=654
-2025-04-04 03:25:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=634
-2025-04-04 03:25:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=614
-2025-04-04 03:25:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=594
-2025-04-04 03:25:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=574
-2025-04-04 03:25:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=554
-2025-04-04 03:25:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=534
-2025-04-04 03:25:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=514
-2025-04-04 03:25:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=494
-2025-04-04 03:25:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=474
-2025-04-04 03:25:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=454
-2025-04-04 03:25:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=434
-2025-04-04 03:25:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=414
-2025-04-04 03:25:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=394
-2025-04-04 03:25:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=374
-2025-04-04 03:25:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=354
-2025-04-04 03:25:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=334
-2025-04-04 03:25:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=314
-2025-04-04 03:25:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=294
-2025-04-04 03:25:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=274
-2025-04-04 03:25:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=254
-2025-04-04 03:25:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=234
-2025-04-04 03:25:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=214
-2025-04-04 03:25:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=194
-2025-04-04 03:25:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=174
-2025-04-04 03:25:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=154
-2025-04-04 03:25:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=134
-2025-04-04 03:25:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=114
-2025-04-04 03:25:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=94
-2025-04-04 03:25:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=74
-2025-04-04 03:25:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=54
-2025-04-04 03:25:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=34
-2025-04-04 03:25:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=14
-2025-04-04 03:25:32 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [extract_airport_site] finished, count: 345, cost: 44.34s
-2025-04-04 03:25:39 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [get_redirect_url] finished, count: 12, cost: 6.68s
-2025-04-04 03:25:44 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [run_crawl] finished, count: 13, cost: 0.37s
-2025-04-04 03:25:44 crawl.py [line:1731] INFO: [AirPortCollector] fetched 144 airport, start extracting real routing addresses
-2025-04-04 03:26:21 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [extract_backend_url] finished, count: 144, cost: 36.58s
-2025-04-04 03:26:21 crawl.py [line:1743] INFO: [AirPortCollector] extract real base url finished, start to check it now
-2025-04-04 03:26:41 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [validate_domain] finished, count: 117, cost: 20.13s
-2025-04-04 03:26:41 crawl.py [line:1755] INFO: [AirPortCollector] finished collect airport, availables: 30
-2025-04-04 03:26:41 collect.py [line:267] INFO: start generate subscribes information, tasks: 37
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[W7tEUmpa]	id=[1]	domain=[https://www.kuaidog010.top]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[xn--2vxn29amgacom-r9i2]	id=[1]	domain=[https://xn--2vxn29amga.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[gladosspace-twe]	id=[1]	domain=[https://glados.space]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[panelkeleofficialcom-jkcq]	id=[1]	domain=[https://panel.keleofficial.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[a02qytvipaffpro-os4ix]	id=[1]	domain=[https://a02.qytvipaff.pro]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[fengwopro-b5y]	id=[1]	domain=[https://fengwo.pro]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[akpyunlive-21y]	id=[1]	domain=[https://a.kpyun.live]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[themeservercutecloudonede-gh6c3]	id=[1]	domain=[https://themeserver.cutecloudone.de]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[ywl201593xyz-jaoc]	id=[1]	domain=[https://ywl.201593.xyz]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[appjingfanme-culpr]	id=[1]	domain=[https://app.jingfan.me]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[bp123xyz-rq2]	id=[1]	domain=[https://bp123.xyz]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[巅峰机场com-yvpi]	id=[1]	domain=[https://巅峰机场.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[优惠机场com-ixf]	id=[1]	domain=[https://优惠机场.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[hssl8088icu-a0n6c]	id=[1]	domain=[https://hssl8088.icu]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[aimanmanme-kfbi0]	id=[1]	domain=[https://aimanman.me]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[panelofonetnet-t5m1]	id=[1]	domain=[https://panel.ofonet.net]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[五分机场live-14mco]	id=[1]	domain=[https://五分机场.live]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[snanguacom-fi8yj]	id=[1]	domain=[https://snangua.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[便宜机场co-fsu]	id=[1]	domain=[https://便宜机场.co]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[yunduanjctop-u5bij]	id=[1]	domain=[https://yunduanjc.top]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[changyouvpntop-7bfhm]	id=[1]	domain=[https://changyouvpn.top]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[appcloudogme-e6f1]	id=[1]	domain=[https://app.cloudog.me]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[xn--wtq35pfyd55oco-hvd]	id=[1]	domain=[https://xn--wtq35pfyd55o.co]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[xn--4oq11ryli3rgcom-izvhm]	id=[1]	domain=[https://xn--4oq11ryli3rg.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[wwwkuaidog006top-hjlw]	id=[1]	domain=[https://www.kuaidog006.top]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[changyouVPNtop-04v6]	id=[1]	domain=[http://changyouVPN.top]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[v2187160xyz-vuw24]	id=[1]	domain=[https://v2.187160.xyz]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[悟空机场com-45b]	id=[1]	domain=[https://悟空机场.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[xn--mes91t7ofgnwcom-ljm]	id=[1]	domain=[https://xn--mes91t7ofgnw.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[cloudgougoulive-x1mz]	id=[1]	domain=[https://cloud.gougou.live]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[一家机场com-3t94]	id=[1]	domain=[https://一家机场.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[cloudjisubalive-9ur5]	id=[1]	domain=[https://cloud.jisuba.live]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[一个机场com-vwrqm]	id=[1]	domain=[https://一个机场.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[xn--4gqvd492adjrcom-l04]	id=[1]	domain=[https://xn--4gqvd492adjr.com]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[w03qytweba07cc-sa0h]	id=[1]	domain=[https://w03.qytweba07.cc]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[ansuyunxyz-7f5a]	id=[1]	domain=[https://ansuyun.xyz]
-2025-04-04 03:26:41 workflow.py [line:105] INFO: start fetch proxy: name=[fqqcqatqytvipaffcc-eh2]	id=[1]	domain=[https://fqqcqat.qytvipaff.cc]
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://bp123.xyz
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://巅峰机场.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://五分机场.live
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://悟空机场.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://优惠机场.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://一个机场.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.jisuba.live
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://一家机场.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.cloudog.me
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.jingfan.me
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://snangua.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--mes91t7ofgnw.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://便宜机场.co
-2025-04-04 03:26:41 renewal.py [line:456] ERROR: fetch free plans error, cookies and authorization is empty, domain: https://glados.space
-2025-04-04 03:26:41 airport.py [line:361] INFO: not exists free plan, domain: https://glados.space
-2025-04-04 03:26:41 renewal.py [line:554] ERROR: query subscribe information error, cookies and authorization is empty, domain: https://glados.space
-2025-04-04 03:26:41 airport.py [line:335] ERROR: [RegisterError] cannot get token when register, domain: https://glados.space
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--2vxn29amga.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--4gqvd492adjr.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://yunduanjc.top
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://changyouvpn.top
-2025-04-04 03:26:41 airport.py [line:361] INFO: not exists free plan, domain: https://fengwo.pro
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--4oq11ryli3rg.com
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://aimanman.me
-2025-04-04 03:26:41 airport.py [line:276] INFO: achieved max retry when register, domain: https://hssl8088.icu
-2025-04-04 03:26:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.gougou.live
-2025-04-04 03:26:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://ansuyun.xyz
-2025-04-04 03:26:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://panel.keleofficial.com
-2025-04-04 03:26:42 airport.py [line:361] INFO: not exists free plan, domain: https://w03.qytweba07.cc
-2025-04-04 03:26:42 airport.py [line:276] INFO: achieved max retry when register, domain: http://changyouVPN.top
-2025-04-04 03:26:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--wtq35pfyd55o.co
-2025-04-04 03:26:43 airport.py [line:364] INFO: found free plan, domain: https://www.kuaidog006.top, plan: Plan(plan_id=12, package='month_price', renew=True, reset=False, trafficflow=100)
-2025-04-04 03:26:43 airport.py [line:361] INFO: not exists free plan, domain: https://a02.qytvipaff.pro
-2025-04-04 03:26:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://themeserver.cutecloudone.de
-2025-04-04 03:26:43 renewal.py [line:607] ERROR: cannot get subscribe information, domain: https://a02.qytvipaff.pro, response: <!DOCTYPE html>
+2025-04-05 03:23:06 collect.py [line:209] ERROR: cannot extract username and gist id due to invalid github gist link
+2025-04-05 03:23:06 collect.py [line:71] INFO: start checking whether existing subscriptions have expired
+2025-04-05 03:23:07 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [check_status] finished, count: 1, cost: 1.39s
+2025-04-05 03:23:07 collect.py [line:113] INFO: load exists subscription finished, count: 1
+2025-04-05 03:23:08 crawl.py [line:1430] INFO: [TelegramCrawl] starting crawl from telegram, channel: freeVPNjd, pages: 346
+2025-04-05 03:23:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6906
+2025-04-05 03:23:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6886
+2025-04-05 03:23:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6866
+2025-04-05 03:23:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6846
+2025-04-05 03:23:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6826
+2025-04-05 03:23:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6806
+2025-04-05 03:23:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6786
+2025-04-05 03:23:08 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6766
+2025-04-05 03:23:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6746
+2025-04-05 03:23:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6726
+2025-04-05 03:23:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6706
+2025-04-05 03:23:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6686
+2025-04-05 03:23:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6666
+2025-04-05 03:23:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6646
+2025-04-05 03:23:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6626
+2025-04-05 03:23:09 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6606
+2025-04-05 03:23:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6586
+2025-04-05 03:23:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6566
+2025-04-05 03:23:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6546
+2025-04-05 03:23:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6526
+2025-04-05 03:23:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6506
+2025-04-05 03:23:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6486
+2025-04-05 03:23:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6466
+2025-04-05 03:23:10 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6446
+2025-04-05 03:23:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6426
+2025-04-05 03:23:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6406
+2025-04-05 03:23:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6386
+2025-04-05 03:23:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6366
+2025-04-05 03:23:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6346
+2025-04-05 03:23:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6326
+2025-04-05 03:23:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6306
+2025-04-05 03:23:11 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6286
+2025-04-05 03:23:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6266
+2025-04-05 03:23:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6246
+2025-04-05 03:23:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6226
+2025-04-05 03:23:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6206
+2025-04-05 03:23:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6186
+2025-04-05 03:23:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6166
+2025-04-05 03:23:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6146
+2025-04-05 03:23:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6126
+2025-04-05 03:23:12 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6106
+2025-04-05 03:23:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6086
+2025-04-05 03:23:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6066
+2025-04-05 03:23:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6046
+2025-04-05 03:23:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6026
+2025-04-05 03:23:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6006
+2025-04-05 03:23:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5986
+2025-04-05 03:23:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5966
+2025-04-05 03:23:13 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5946
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5926
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5906
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5886
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5866
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5846
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5826
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5806
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5786
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5766
+2025-04-05 03:23:14 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5746
+2025-04-05 03:23:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5726
+2025-04-05 03:23:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5706
+2025-04-05 03:23:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5686
+2025-04-05 03:23:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5666
+2025-04-05 03:23:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5646
+2025-04-05 03:23:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5626
+2025-04-05 03:23:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5606
+2025-04-05 03:23:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5586
+2025-04-05 03:23:15 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5566
+2025-04-05 03:23:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5546
+2025-04-05 03:23:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5526
+2025-04-05 03:23:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5506
+2025-04-05 03:23:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5486
+2025-04-05 03:23:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5466
+2025-04-05 03:23:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5446
+2025-04-05 03:23:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5426
+2025-04-05 03:23:16 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5406
+2025-04-05 03:23:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5386
+2025-04-05 03:23:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5366
+2025-04-05 03:23:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5346
+2025-04-05 03:23:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5326
+2025-04-05 03:23:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5306
+2025-04-05 03:23:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5286
+2025-04-05 03:23:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5266
+2025-04-05 03:23:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5246
+2025-04-05 03:23:17 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5226
+2025-04-05 03:23:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5206
+2025-04-05 03:23:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5186
+2025-04-05 03:23:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5166
+2025-04-05 03:23:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5146
+2025-04-05 03:23:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5126
+2025-04-05 03:23:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5106
+2025-04-05 03:23:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5086
+2025-04-05 03:23:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5066
+2025-04-05 03:23:18 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5046
+2025-04-05 03:23:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5026
+2025-04-05 03:23:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=5006
+2025-04-05 03:23:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4986
+2025-04-05 03:23:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4966
+2025-04-05 03:23:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4946
+2025-04-05 03:23:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4926
+2025-04-05 03:23:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4906
+2025-04-05 03:23:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4886
+2025-04-05 03:23:19 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4866
+2025-04-05 03:23:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4846
+2025-04-05 03:23:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4826
+2025-04-05 03:23:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4806
+2025-04-05 03:23:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4786
+2025-04-05 03:23:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4766
+2025-04-05 03:23:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4746
+2025-04-05 03:23:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4726
+2025-04-05 03:23:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4706
+2025-04-05 03:23:20 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4686
+2025-04-05 03:23:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4666
+2025-04-05 03:23:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4646
+2025-04-05 03:23:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4626
+2025-04-05 03:23:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4606
+2025-04-05 03:23:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4586
+2025-04-05 03:23:21 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4566
+2025-04-05 03:23:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4546
+2025-04-05 03:23:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4526
+2025-04-05 03:23:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4506
+2025-04-05 03:23:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4486
+2025-04-05 03:23:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4466
+2025-04-05 03:23:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4446
+2025-04-05 03:23:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4426
+2025-04-05 03:23:22 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4406
+2025-04-05 03:23:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4386
+2025-04-05 03:23:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4366
+2025-04-05 03:23:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4346
+2025-04-05 03:23:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4326
+2025-04-05 03:23:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4306
+2025-04-05 03:23:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4286
+2025-04-05 03:23:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4266
+2025-04-05 03:23:23 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4246
+2025-04-05 03:23:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4226
+2025-04-05 03:23:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4206
+2025-04-05 03:23:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4186
+2025-04-05 03:23:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4166
+2025-04-05 03:23:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4146
+2025-04-05 03:23:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4126
+2025-04-05 03:23:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4106
+2025-04-05 03:23:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4086
+2025-04-05 03:23:24 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4066
+2025-04-05 03:23:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4046
+2025-04-05 03:23:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4026
+2025-04-05 03:23:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=4006
+2025-04-05 03:23:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3986
+2025-04-05 03:23:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3966
+2025-04-05 03:23:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3946
+2025-04-05 03:23:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3926
+2025-04-05 03:23:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3906
+2025-04-05 03:23:25 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3886
+2025-04-05 03:23:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3866
+2025-04-05 03:23:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3846
+2025-04-05 03:23:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3826
+2025-04-05 03:23:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3806
+2025-04-05 03:23:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3786
+2025-04-05 03:23:26 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3766
+2025-04-05 03:23:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3746
+2025-04-05 03:23:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3726
+2025-04-05 03:23:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3706
+2025-04-05 03:23:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3686
+2025-04-05 03:23:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3666
+2025-04-05 03:23:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3646
+2025-04-05 03:23:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3626
+2025-04-05 03:23:27 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3606
+2025-04-05 03:23:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3586
+2025-04-05 03:23:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3566
+2025-04-05 03:23:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3546
+2025-04-05 03:23:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3526
+2025-04-05 03:23:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3506
+2025-04-05 03:23:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3486
+2025-04-05 03:23:28 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3466
+2025-04-05 03:23:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3446
+2025-04-05 03:23:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3426
+2025-04-05 03:23:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3406
+2025-04-05 03:23:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3386
+2025-04-05 03:23:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3366
+2025-04-05 03:23:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3346
+2025-04-05 03:23:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3326
+2025-04-05 03:23:29 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3306
+2025-04-05 03:23:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3286
+2025-04-05 03:23:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3266
+2025-04-05 03:23:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3246
+2025-04-05 03:23:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3226
+2025-04-05 03:23:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3206
+2025-04-05 03:23:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3186
+2025-04-05 03:23:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3166
+2025-04-05 03:23:30 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3146
+2025-04-05 03:23:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3126
+2025-04-05 03:23:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3106
+2025-04-05 03:23:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3086
+2025-04-05 03:23:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3066
+2025-04-05 03:23:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3046
+2025-04-05 03:23:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3026
+2025-04-05 03:23:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=3006
+2025-04-05 03:23:31 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2986
+2025-04-05 03:23:32 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2966
+2025-04-05 03:23:32 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2946
+2025-04-05 03:23:32 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2926
+2025-04-05 03:23:32 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2906
+2025-04-05 03:23:32 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2886
+2025-04-05 03:23:32 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2866
+2025-04-05 03:23:32 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2846
+2025-04-05 03:23:32 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2826
+2025-04-05 03:23:32 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2806
+2025-04-05 03:23:33 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2786
+2025-04-05 03:23:33 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2766
+2025-04-05 03:23:33 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2746
+2025-04-05 03:23:33 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2726
+2025-04-05 03:23:33 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2706
+2025-04-05 03:23:33 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2686
+2025-04-05 03:23:33 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2666
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2646
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2626
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2606
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2586
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2566
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2546
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2526
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2506
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2486
+2025-04-05 03:23:34 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2466
+2025-04-05 03:23:35 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2446
+2025-04-05 03:23:35 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2426
+2025-04-05 03:23:35 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2406
+2025-04-05 03:23:35 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2386
+2025-04-05 03:23:35 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2366
+2025-04-05 03:23:35 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2346
+2025-04-05 03:23:35 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2326
+2025-04-05 03:23:35 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2306
+2025-04-05 03:23:35 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2286
+2025-04-05 03:23:36 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2266
+2025-04-05 03:23:36 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2246
+2025-04-05 03:23:36 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2226
+2025-04-05 03:23:36 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2206
+2025-04-05 03:23:36 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2186
+2025-04-05 03:23:36 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2166
+2025-04-05 03:23:36 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2146
+2025-04-05 03:23:36 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2126
+2025-04-05 03:23:37 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2106
+2025-04-05 03:23:37 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2086
+2025-04-05 03:23:37 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2066
+2025-04-05 03:23:37 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2046
+2025-04-05 03:23:37 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2026
+2025-04-05 03:23:37 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=2006
+2025-04-05 03:23:37 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1986
+2025-04-05 03:23:37 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1966
+2025-04-05 03:23:38 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1946
+2025-04-05 03:23:38 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1926
+2025-04-05 03:23:38 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1906
+2025-04-05 03:23:38 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1886
+2025-04-05 03:23:38 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1866
+2025-04-05 03:23:38 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1846
+2025-04-05 03:23:38 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1826
+2025-04-05 03:23:38 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1806
+2025-04-05 03:23:39 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1786
+2025-04-05 03:23:39 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1766
+2025-04-05 03:23:39 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1746
+2025-04-05 03:23:39 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1726
+2025-04-05 03:23:39 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1706
+2025-04-05 03:23:39 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1686
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1666
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1646
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1626
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1606
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1586
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1566
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1546
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1526
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1506
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1486
+2025-04-05 03:23:40 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1466
+2025-04-05 03:23:41 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1446
+2025-04-05 03:23:41 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1426
+2025-04-05 03:23:41 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1406
+2025-04-05 03:23:41 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1386
+2025-04-05 03:23:41 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1366
+2025-04-05 03:23:41 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1346
+2025-04-05 03:23:41 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1326
+2025-04-05 03:23:42 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1306
+2025-04-05 03:23:42 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1286
+2025-04-05 03:23:42 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1266
+2025-04-05 03:23:42 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1246
+2025-04-05 03:23:42 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1226
+2025-04-05 03:23:42 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1206
+2025-04-05 03:23:42 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1186
+2025-04-05 03:23:42 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1166
+2025-04-05 03:23:42 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1146
+2025-04-05 03:23:43 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1126
+2025-04-05 03:23:43 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1106
+2025-04-05 03:23:43 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1086
+2025-04-05 03:23:43 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1066
+2025-04-05 03:23:43 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1046
+2025-04-05 03:23:43 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1026
+2025-04-05 03:23:43 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=1006
+2025-04-05 03:23:43 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=986
+2025-04-05 03:23:43 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=966
+2025-04-05 03:23:44 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=946
+2025-04-05 03:23:44 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=926
+2025-04-05 03:23:44 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=906
+2025-04-05 03:23:44 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=886
+2025-04-05 03:23:44 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=866
+2025-04-05 03:23:44 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=846
+2025-04-05 03:23:44 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=826
+2025-04-05 03:23:44 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=806
+2025-04-05 03:23:45 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=786
+2025-04-05 03:23:45 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=766
+2025-04-05 03:23:45 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=746
+2025-04-05 03:23:45 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=726
+2025-04-05 03:23:45 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=706
+2025-04-05 03:23:45 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=686
+2025-04-05 03:23:45 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=666
+2025-04-05 03:23:45 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=646
+2025-04-05 03:23:46 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=626
+2025-04-05 03:23:46 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=606
+2025-04-05 03:23:46 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=586
+2025-04-05 03:23:46 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=566
+2025-04-05 03:23:46 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=546
+2025-04-05 03:23:46 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=526
+2025-04-05 03:23:46 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=506
+2025-04-05 03:23:47 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=486
+2025-04-05 03:23:47 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=466
+2025-04-05 03:23:47 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=446
+2025-04-05 03:23:47 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=426
+2025-04-05 03:23:47 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=406
+2025-04-05 03:23:47 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=386
+2025-04-05 03:23:47 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=366
+2025-04-05 03:23:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=346
+2025-04-05 03:23:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=326
+2025-04-05 03:23:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=306
+2025-04-05 03:23:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=286
+2025-04-05 03:23:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=266
+2025-04-05 03:23:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=246
+2025-04-05 03:23:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=226
+2025-04-05 03:23:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=206
+2025-04-05 03:23:48 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=186
+2025-04-05 03:23:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=166
+2025-04-05 03:23:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=146
+2025-04-05 03:23:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=126
+2025-04-05 03:23:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=106
+2025-04-05 03:23:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=86
+2025-04-05 03:23:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=66
+2025-04-05 03:23:49 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=46
+2025-04-05 03:23:50 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=26
+2025-04-05 03:23:50 crawl.py [line:1390] INFO: [AirPortCrawl] start collect airport, url: https://t.me/s/freeVPNjd?before=6
+2025-04-05 03:23:50 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [extract_airport_site] finished, count: 346, cost: 42.17s
+2025-04-05 03:23:55 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [run_crawl] finished, count: 13, cost: 0.11s
+2025-04-05 03:23:55 crawl.py [line:1731] INFO: [AirPortCollector] fetched 139 airport, start extracting real routing addresses
+2025-04-05 03:24:51 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [extract_backend_url] finished, count: 139, cost: 56.14s
+2025-04-05 03:24:51 crawl.py [line:1743] INFO: [AirPortCollector] extract real base url finished, start to check it now
+2025-04-05 03:25:42 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [validate_domain] finished, count: 113, cost: 50.63s
+2025-04-05 03:25:42 crawl.py [line:1755] INFO: [AirPortCollector] finished collect airport, availables: 29
+2025-04-05 03:25:42 collect.py [line:267] INFO: start generate subscribes information, tasks: 38
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[g29xDQWN]	id=[1]	domain=[https://www.kuaidog010.top]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[xn--2vxn29amgacom-zrwn2]	id=[1]	domain=[https://xn--2vxn29amga.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[gladosspace-3uzh]	id=[1]	domain=[https://glados.space]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[panelkeleofficialcom-px4c]	id=[1]	domain=[https://panel.keleofficial.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[a02qytvipaffpro-1owv]	id=[1]	domain=[https://a02.qytvipaff.pro]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[fengwopro-jqih]	id=[1]	domain=[https://fengwo.pro]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[akpyunlive-kufr]	id=[1]	domain=[https://a.kpyun.live]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[themeservercutecloudonede-z4vr]	id=[1]	domain=[https://themeserver.cutecloudone.de]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[ywl201593xyz-wlqm]	id=[1]	domain=[https://ywl.201593.xyz]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[appjingfanme-5eaj]	id=[1]	domain=[https://app.jingfan.me]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[bp123xyz-fret]	id=[1]	domain=[https://bp123.xyz]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[巅峰机场com-z1u]	id=[1]	domain=[https://巅峰机场.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[优惠机场com-kos3r]	id=[1]	domain=[https://优惠机场.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[hssl8088icu-x5qe]	id=[1]	domain=[https://hssl8088.icu]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[aimanmanme-w64p]	id=[1]	domain=[https://aimanman.me]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[panelofonetnet-78r]	id=[1]	domain=[https://panel.ofonet.net]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[五分机场live-n1f0]	id=[1]	domain=[https://五分机场.live]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[snanguacom-kp18]	id=[1]	domain=[https://snangua.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[便宜机场co-l2bkr]	id=[1]	domain=[https://便宜机场.co]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[yunduanjctop-7kb4q]	id=[1]	domain=[https://yunduanjc.top]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[changyouvpntop-fyc8x]	id=[1]	domain=[https://changyouvpn.top]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[appcloudogme-u9v]	id=[1]	domain=[https://app.cloudog.me]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[xn--wtq35pfyd55oco-jve]	id=[1]	domain=[https://xn--wtq35pfyd55o.co]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[xn--4oq11ryli3rgcom-pzwrl]	id=[1]	domain=[https://xn--4oq11ryli3rg.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[wwwkuaidog006top-khs]	id=[1]	domain=[https://www.kuaidog006.top]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[changyouVPNtop-le9]	id=[1]	domain=[http://changyouVPN.top]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[v2187160xyz-3z85h]	id=[1]	domain=[https://v2.187160.xyz]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[悟空机场com-rad]	id=[1]	domain=[https://悟空机场.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[xn--mes91t7ofgnwcom-vyz2]	id=[1]	domain=[https://xn--mes91t7ofgnw.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[cloudgougoulive-2jyx]	id=[1]	domain=[https://cloud.gougou.live]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[一家机场com-esa6b]	id=[1]	domain=[https://一家机场.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[cloudjisubalive-lhbt]	id=[1]	domain=[https://cloud.jisuba.live]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[一个机场com-qsk4]	id=[1]	domain=[https://一个机场.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[w03qytweba07cc-4nl9]	id=[1]	domain=[https://w03.qytweba07.cc]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[xn--4gqvd492adjrcom-qxgv]	id=[1]	domain=[https://xn--4gqvd492adjr.com]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[ansuyunxyz-kv75]	id=[1]	domain=[https://ansuyun.xyz]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[fqqcqatqytvipaffcc-le0]	id=[1]	domain=[https://fqqcqat.qytvipaff.cc]
+2025-04-05 03:25:42 workflow.py [line:105] INFO: start fetch proxy: name=[dfjcxyz-sb0d]	id=[1]	domain=[https://dfjc.xyz]
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://bp123.xyz
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://巅峰机场.com
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://悟空机场.com
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://五分机场.live
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.jingfan.me
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://snangua.com
+2025-04-05 03:25:42 renewal.py [line:456] ERROR: fetch free plans error, cookies and authorization is empty, domain: https://glados.space
+2025-04-05 03:25:42 airport.py [line:361] INFO: not exists free plan, domain: https://glados.space
+2025-04-05 03:25:42 renewal.py [line:554] ERROR: query subscribe information error, cookies and authorization is empty, domain: https://glados.space
+2025-04-05 03:25:42 airport.py [line:335] ERROR: [RegisterError] cannot get token when register, domain: https://glados.space
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.jisuba.live
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://优惠机场.com
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://便宜机场.co
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://一家机场.com
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://一个机场.com
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://app.cloudog.me
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--2vxn29amga.com
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--mes91t7ofgnw.com
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://yunduanjc.top
+2025-04-05 03:25:42 airport.py [line:276] INFO: achieved max retry when register, domain: https://hssl8088.icu
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://ansuyun.xyz
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://changyouvpn.top
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--4oq11ryli3rg.com
+2025-04-05 03:25:43 airport.py [line:361] INFO: not exists free plan, domain: https://fengwo.pro
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://aimanman.me
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--4gqvd492adjr.com
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://cloud.gougou.live
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://panel.keleofficial.com
+2025-04-05 03:25:43 airport.py [line:361] INFO: not exists free plan, domain: https://a.kpyun.live
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://dfjc.xyz
+2025-04-05 03:25:43 airport.py [line:361] INFO: not exists free plan, domain: https://w03.qytweba07.cc
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://xn--wtq35pfyd55o.co
+2025-04-05 03:25:43 airport.py [line:276] INFO: achieved max retry when register, domain: http://changyouVPN.top
+2025-04-05 03:25:44 airport.py [line:364] INFO: found free plan, domain: https://www.kuaidog006.top, plan: Plan(plan_id=12, package='month_price', renew=True, reset=False, trafficflow=100)
+2025-04-05 03:25:44 airport.py [line:361] INFO: not exists free plan, domain: https://a02.qytvipaff.pro
+2025-04-05 03:25:44 airport.py [line:276] INFO: achieved max retry when register, domain: https://panel.ofonet.net
+2025-04-05 03:25:44 renewal.py [line:607] ERROR: cannot get subscribe information, domain: https://a02.qytvipaff.pro, response: <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
@@ -480,11 +483,10 @@
 </body>
 </html>
 
-2025-04-04 03:26:43 airport.py [line:276] INFO: achieved max retry when register, domain: https://panel.ofonet.net
-2025-04-04 03:26:44 airport.py [line:361] INFO: not exists free plan, domain: https://a.kpyun.live
-2025-04-04 03:26:44 airport.py [line:782] INFO: subconverter completed, artifact: [a02qytvipaffpro-os4ix-w2Q]	success=[False]
-2025-04-04 03:26:45 airport.py [line:276] INFO: achieved max retry when register, domain: https://fqqcqat.qytvipaff.cc
-2025-04-04 03:26:46 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://www.kuaidog006.top
-2025-04-04 03:26:48 workflow.py [line:140] INFO: finished fetch proxy: name=[wwwkuaidog006top-hjlw]	username=[3Lf0axYXlz@163.com]	domain=[https://www.kuaidog006.top]	count=[11]
-2025-04-04 03:26:48 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [executewrapper] finished, count: 37, cost: 7.45s
-2025-04-04 03:26:48 collect.py [line:384] INFO: found 6 proxies, save it to ['/home/runner/work/Mo_freeVPNjd/Mo_freeVPNjd/data/clash.yaml', '/home/runner/work/Mo_freeVPNjd/Mo_freeVPNjd/data/v2ray.txt']
+2025-04-05 03:25:45 airport.py [line:782] INFO: subconverter completed, artifact: [a02qytvipaffpro-1owv-4lK]	success=[False]
+2025-04-05 03:25:46 airport.py [line:276] INFO: achieved max retry when register, domain: https://fqqcqat.qytvipaff.cc
+2025-04-05 03:25:46 airport.py [line:394] INFO: [RegisterSuccess] register successed, domain: https://www.kuaidog006.top
+2025-04-05 03:25:48 workflow.py [line:140] INFO: finished fetch proxy: name=[wwwkuaidog006top-khs]	username=[lce2MB7U@sina.com]	domain=[https://www.kuaidog006.top]	count=[11]
+2025-04-05 03:28:03 airport.py [line:276] INFO: achieved max retry when register, domain: https://themeserver.cutecloudone.de
+2025-04-05 03:28:03 utils.py [line:558] INFO: [Concurrent] multi-threaded execute [executewrapper] finished, count: 38, cost: 141.55s
+2025-04-05 03:28:03 collect.py [line:384] INFO: found 6 proxies, save it to ['/home/runner/work/Mo_freeVPNjd/Mo_freeVPNjd/data/clash.yaml', '/home/runner/work/Mo_freeVPNjd/Mo_freeVPNjd/data/v2ray.txt']
